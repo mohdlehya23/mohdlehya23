@@ -3,10 +3,10 @@
 
 <p align="center">
   <!-- GitHub profile stats badges -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+  <a href="https://github.com/mohdlehya23?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mohdlehya23">
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
@@ -27,21 +27,21 @@
 
 <p align="center">
   <!-- Replace all # with your real links -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/mohdlehya23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:DevOmarHussien@gmail.com" target="_blank">
+  <!-- <a href="mailto:DevOmarHussien@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a> -->
   <a href="https://wa.me/201280281610" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <!-- <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -79,25 +79,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Change YOUR_GITHUB_USERNAME to your account -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdlehya23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
-
+<!--
 ## ☕ Support My Work
 
 <p align="center">
   <!-- Optional: replace with your Buy Me a Coffee / Ko-fi link or remove this section -->
+  <!--
   <a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
 </p>
+-->
