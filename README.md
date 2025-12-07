@@ -36,7 +36,7 @@
   <!-- <a href="mailto:DevOmarHussien@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a> -->
-  <a href="https://wa.me/201280281610" target="_blank">
+  <a href="https://wa.link/j9bl7x" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <!-- <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
