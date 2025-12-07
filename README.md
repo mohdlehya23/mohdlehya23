@@ -4,10 +4,10 @@
 <p align="center">
   <!-- GitHub profile stats badges -->
   <a href="https://github.com/mohdlehya23?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/mohdlehya23?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/mohdlehya23">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=mohdlehya23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 - 🛠 I work with **PHP (Laravel), JavaScript, React.js, Node.js, Next.js, Nest.js** plus **Firebase & MySQL** for the backend.
 - 🌱 Currently improving my skills in **modern JavaScript frameworks** and **scalable backend architectures**.
 - 💼 Open to **freelance projects** and **full-time opportunities**.
-- 📫 Reach me at: **DevOmarHussien@gmail.com** (change to your best email if needed).
+- 📫 Reach me at: **mohdlehya2002@gmail.com** (change to your best email if needed).
 
 ---
 
